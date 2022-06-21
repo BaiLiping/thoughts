@@ -6,3 +6,4 @@
 - [Clarity of Thoughts](https://youtube.com/clip/Ugkx55r4O5-H9VYE7nKBHkkw2rl17WcwXaKd)
 - Reduce the problem to its simplest form and go from there.
 - Think about the performance over extreme condictions.
+- Can we decompose a complicated system? Can we hedge for the undesirable part?
