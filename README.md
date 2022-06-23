@@ -11,3 +11,5 @@
 - [Nocturne: a scalable driving benchmark for bringing multi-agent learning one step closer to the real world](https://arxiv.org/abs/2206.09889) This might be a simulator that I can use for the experiments.
 
 - There are two ways to incorporate contingency planning into MPC based planning. One, MPC can be [multi-model and branched](http://ames.caltech.edu/chen2021interactive.pdf). Two, Multi-Hypothesis Tracking and Multi-Scenario MPC based Planning. Not that many people are aware of the MHT issue, so that is another way to use multi-scenario MPC based planning. 
+
+- [Gaussian Belief Propagation](https://gaussianbp.github.io/#gbp_intuition) and [It's application in Traffic Control](https://twitter.com/AjdDavison/status/1506644619165065217?s=20&t=WhBa9iHywcmZ9-gkPZdDdg)
